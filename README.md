@@ -12,7 +12,7 @@
   
 ## ⚡ Technologies
   
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -22,13 +22,13 @@
 ## 🌀 A little more about me:
 
 ```typescript
-class Delson extends Human {
+class Lucas extends Human {
   name: string;
   nationality: string;
   
   constructor() {
     super();
-    this.name = "Delson Martins";
+    this.name = "Lucas Brand";
     this.nationality = "Brazilian";
   }
   
