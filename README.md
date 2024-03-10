@@ -43,7 +43,9 @@ class Lucas extends Human {
   ];
   
   technologies: {
-    Python:           ["OOP 01"];
+    Python,
+    C/C++,
+    Java,
   };
 }
 ```
