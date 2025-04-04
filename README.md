@@ -5,7 +5,7 @@
 [![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucbsm@gmail.com)](mailto:lucbsm@gmail.com)
 
 ### Student of Computer Science at UFSC 
-### Currently working in QA for BRIDGE
+### Currently working as a QA on BRIDGE
 
 <p  align="left"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
 
